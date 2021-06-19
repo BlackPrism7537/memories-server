@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-import { TrainRounded } from "../../client/node_modules/@material-ui/icons/index.js";
 import PostMessage from "../models/postMessage.js";
 
 const handle = (err) => console.log(err);
